@@ -15,7 +15,6 @@
 		<mule.version>3.9.1</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
 		<activemq.version>5.15.4</activemq.version>
-		<Content-Type>application/json</Content-Type>
 	</properties>
 
 	<build>
